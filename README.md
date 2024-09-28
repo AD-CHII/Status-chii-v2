@@ -102,7 +102,7 @@ module.exports = { EmbedFrom, ButtonFrom };
 ```js
 {
   "dependencies": {
-    "status-chii-v2": "^1.0.1"
+    "status-chii-v2": "^1.0.2"
   }
 }
 ```
