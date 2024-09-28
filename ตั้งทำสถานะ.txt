@@ -1,0 +1,70 @@
+        {
+            "token": "โทเค็นผู้ใช้งาน",
+            "setURL": [
+                "https://twitch.tv/chii"
+            ],
+            "Details": [
+                "꒰ time:t ꒱ ✦ ꒰ date:n ꒱"
+                , "꒰ time:t ꒱ ✦ ꒰ date:th ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
+                ,"꒰ time:t ꒱ ✦ ꒰ date:n ꒱"
+                ,"꒰ time:t ꒱ ✦ ꒰ date:th ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
+            ],
+            "setState": [
+                "【 𝟏 / 𝟏𝟎 】👒ꔛ☆★☆★☆★☆★ꔛ"
+                ,"【 𝟐 / 𝟏𝟎 】👒ꔛ★☆★☆★☆★☆ꔛ"
+                ,"【 𝟑 / 𝟏𝟎 】👒ꔛ☆☆★☆★☆★★ꔛ"
+                ,"【 𝟒 / 𝟏𝟎 】👒ꔛ☆☆★☆★☆★★ꔛ"
+                ,"【 𝟓 / 𝟏𝟎 】👒ꔛ☆★☆★☆★☆★ꔛ"
+                ,"【 𝟔 / 𝟏𝟎 】👒ꔛ★☆★☆★☆★☆ꔛ"
+                ,"【 𝟕 / 𝟏𝟎 】👒ꔛ☆☆★☆★☆★★ꔛ"
+                ,"【 𝟖 / 𝟏𝟎 】👒ꔛ★☆★☆★☆★☆ꔛ"
+                ,"【 𝟗 / 𝟏𝟎 】👒ꔛ☆☆★☆★☆★★ꔛ"
+                ,"【 𝟏𝟎 / 𝟏𝟎 】👒ꔛ★☆★☆★☆★☆ꔛ"
+            ],
+            "LargeText": [
+                "⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+                ,"⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+            ],
+            "largeImageLinks": [
+                "https://s11.gifyu.com/images/SoUrt.gif"
+                ,"https://s11.gifyu.com/images/SoUtK.gif"
+                ,"https://s11.gifyu.com/images/SoUrv.gif"
+                ,"https://s11.gifyu.com/images/SoUtw.gif"
+                ,"https://s11.gifyu.com/images/SoUrU.gif"
+                ,"https://s11.gifyu.com/images/SoUDY.gif"
+                ,"https://s11.gifyu.com/images/SoUrf.gif"
+                ,"https://s11.gifyu.com/images/SoUrr.gif"
+                ,"https://s11.gifyu.com/images/SoUr1.gif"
+                ,"https://s11.gifyu.com/images/SoUrX.gif"
+            ],
+            "smallImageLinks": [
+                "https://s11.gifyu.com/images/SoUrt.gif"
+                ,"https://s11.gifyu.com/images/SoUtK.gif"
+                ,"https://s11.gifyu.com/images/SoUrv.gif"
+                ,"https://s11.gifyu.com/images/SoUtw.gif"
+                ,"https://s11.gifyu.com/images/SoUrU.gif"
+                ,"https://s11.gifyu.com/images/SoUDY.gif"
+                ,"https://s11.gifyu.com/images/SoUrf.gif"
+                ,"https://s11.gifyu.com/images/SoUrr.gif"
+                ,"https://s11.gifyu.com/images/SoUr1.gif"
+                ,"https://s11.gifyu.com/images/SoUrX.gif"
+            ],
+            "button1": "button1",
+            "link1": "https://discord.gg/5gAsw4Pawq",
+            "button2": "button2",
+            "link2": "https://discord.gg/5gAsw4Pawq"
+        }
